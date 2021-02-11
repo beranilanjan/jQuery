@@ -1,0 +1,338 @@
+@media screen and (max-width:1800px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 900px 40px,0 0,300px 0;
+    }
+    .slider1 .slick-prev{
+        left: 79.5%;
+    }
+}
+@media screen and (max-width:1700px){
+    .area .one,.area .two{
+        height: 600px;
+    }
+    .slider1 .slick-prev{
+        left: 79.2%;
+    }
+}
+@media screen and (max-width:1600px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 800px 40px,0 0,300px 0;
+    }
+    .area .one,.area .two{
+        height: 600px;
+    }
+    .slider1 .slick-prev{
+        left: 79%;
+    }
+}
+@media screen and (max-width:1500px) {
+    .slider1 .slick-prev{
+        left: 78.2%;
+    }
+}
+@media screen and (max-width:1400px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 700px 40px,0 0,300px 0;
+    }
+    .slider1 .slick-prev{
+        left: 78%;
+    }
+}
+@media screen and (max-width:1300px) {
+    .slider1 .slick-prev{
+        left: 77.2%;
+    }
+}
+@media screen and (max-width:1200px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 600px 40px,0 0,300px 0;
+    }
+    .two .slick-prev{
+        left:86%;
+    }
+}
+@media screen and (max-width:1199px){
+    .container{
+        width:950px;
+    }
+    nav .navlink ul li a{
+        display: block;
+    }
+    .area .one,.area .two{
+        height: 600px;
+    }
+    .slider1 .slick-prev{
+        left: 77%;
+    }
+}
+@media screen and (max-width:1100px) {
+    .slider1 .slick-prev{
+        left: 76%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 400px 40px,0 0,300px 0;
+    }
+}
+@media screen and (max-width:900px) {
+    .slider1 .item{
+        height: 500px;
+        background-position: 1500px 40px,0 0,300px 0;
+    }
+}
+@media screen and (max-width:979px){
+    .container{
+        width:750px;
+    }
+    nav .navlink ul li a{
+        display: block;
+    }
+    .service .container{
+        flex-wrap: wrap;
+    }
+    .service .container .one{
+        width: 49%;
+    }
+    .welcome{
+        height: 600px;
+    }
+    .services .blog .content{
+        width: 49%;
+        margin-bottom: 30px;
+    }
+    .services .blog .content p{
+        height: auto;
+    }
+    .services .blog{
+        flex-wrap: wrap;
+    }
+    .area .one{
+        width: 100%;
+        float: none;
+    }
+    .area .two{
+        width: 100%;
+        float: none;
+    }
+    .testimonial .one{
+        width: 100%;
+        float: none;
+    }
+    .testimonial .one .widget{
+        margin: 30px 0;
+        height: 400px;
+    }
+    .testimonial .one .widget .tweet .image,.testimonial .one .widget .tweet .name,.testimonial .one .widget .tweet .tweet-icon{
+        float: none;
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 20px;
+        
+    }
+    .testimonial .two{
+        width: 100%;
+        float: none;
+        display: block;
+    }
+    .testimonial .two .content{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    footer .touch,footer .link,footer .form{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    footer .link{
+        margin-left: 0;
+    }
+    footer .container{
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    
+    .testimonial .one .widget .tweet .image img{
+        margin-top: 0;
+    }
+    .testimonial .one h1,.testimonial .one h2,.testimonial .one .widget .tweet p{
+        text-align: center;
+    }
+    .slider1 .slick-prev{
+        left: 75%;
+    }
+}
+@media screen and (max-width:900px){
+    .slider1 .slick-prev{
+        left: 74%;
+    }
+}
+@media screen and (max-width:800px){
+    .slider1 .slick-prev{
+        left: 73%;
+    }
+}
+@media screen and (max-width:767px){
+    .container{
+        width:96%;
+    }
+    nav{
+        display: block;
+        text-align: center;
+    }
+    nav .contact{
+        left: 0;
+        right: 0;
+    }
+    nav img{
+        text-align: center;
+        margin: 20px 0;
+    }
+    nav .navlink ul li a{
+        display: block;
+    }
+    nav .navlink ul li{
+        display: block;
+    }
+    .service .container{
+        display: block;
+    }
+    .service .container .one{
+        width: 100%;
+    }
+    .welcome{
+        height: 700px;
+    }
+    .services .blog .content{
+        width: 100%;
+    }
+    .services .blog{
+        flex-wrap: wrap;
+    }
+    .welcome{
+        height: auto;
+        padding: 20px;
+    }
+    .slider1 .info p{
+        width: auto;
+        text-align: center;
+    }
+    .area .one,.area .two{
+        height: auto;
+    }
+}
+@media screen and (max-width:700px){
+    .slider1 .slick-prev{
+        left: 71%;
+    }
+}
+@media screen and (max-width:600px){
+    .slider1 .slick-prev{
+        left: 68%;
+    }
+    .two .slick-prev{
+        left:83%;
+    }
+}
+@media screen and (max-width:500px){
+    .slider1 .slick-prev{
+        left: 66%;
+    }
+    .two .slick-prev{
+        left:80%;
+    }
+}
+@media screen and (max-width:450px){
+    .slider1 .slick-prev{
+        left: 63%;
+    }
+    .two .slick-prev{
+        left:77%;
+    }
+}
+@media screen and (max-width:400px){
+    .slider1 .slick-prev{
+        left: 60%;
+    }
+    .two .slick-prev{
+        left:75%;
+    }
+}
+/* @media screen and (max-width:600px){
+    .area .one,.area .two{
+        height: auto;
+    }
+} */
+@media screen and (max-width:375px){
+    nav .contact a{
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+    nav img{
+        margin-top: 50px;
+    }
+    .slider1 .info{
+        padding: 20px;
+    }
+    .slider1 .item{
+        height: 600px;
+    }
+    .slider1 .info p{
+        width: auto;
+        text-align: center;
+    }
+    .slider1 .info{
+        text-align: center;
+    }
+    .slider1 .slick-prev{ 
+        z-index: 1;
+        left: 36%;
+        top: 90%;
+    }
+    .slider1 .slick-next{
+        right: 36%;
+        top: 90%;
+    }
+    .area .one .serv{
+        display: block;
+
+    }
+    .area .one{
+        height: auto;
+    }
+    .area .two .serv{
+        display: block;
+
+    }
+    .area .two{
+        height: auto;
+    }
+    .area .one{
+        padding: 20px;
+        text-align: center;
+    }
+    .area .one ul{
+        margin-bottom: 30px;
+    }
+    .area .two{
+        padding: 20px;
+        text-align: center;
+    }
+    .area .two ul{
+        margin-bottom: 30px;
+    }
+    .two .slick-prev{ 
+        z-index: 1;
+        left: 36%;
+        top: 110%;
+    }
+    .two .slick-next{
+        right: 36%;
+        top: 110%;
+    }
+}
